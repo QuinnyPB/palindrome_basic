@@ -17,9 +17,11 @@ def isPalindrome(word):
 
 
 #Continuosly obtains a word from user input, displays existence of palindrome property
+"""
 while True:
   user_word = input("Please enter a word: ")
   if isPalindrome(user_word):
     print(user_word+" is Palindrome!")
   else:
     print(user_word+" is not Palindrome!")
+"""
